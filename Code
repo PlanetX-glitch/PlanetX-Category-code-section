@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PlanetX Toy Store - Category Section</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Category Section -->
+    <section class="category-section">
+        <div class="container">
+            <h1>Explore Our Toy Categories</h1>
+
+            <!-- Category Grid -->
+            <div class="category-grid">
+                <div class="category-card">
+                    <img src="images/educational-toys.jpg" alt="Educational Toys">
+                    <h3>Educational Toys</h3>
+                    <p>Boost your child's learning with our range of educational toys.</p>
+                    <a href="https://planetx.pk/categories/educational-toys" class="category-link">Shop Now</a>
+                </div>
+
+                <div class="category-card">
+                    <img src="images/plush-toys.jpg" alt="Plush Toys">
+                    <h3>Plush Toys</h3>
+                    <p>Snuggle up with our soft and cuddly plush toys collection.</p>
+                    <a href="https://planetx.pk/categories/plush-toys" class="category-link">Shop Now</a>
+                </div>
+
+                <div class="category-card">
+                    <img src="images/action-figures.jpg" alt="Action Figures">
+                    <h3>Action Figures</h3>
+                    <p>For the little adventurer, check out our action figure range.</p>
+                    <a href="https://planetx.pk/categories/action-figures" class="category-link">Shop Now</a>
+                </div>
+
+                <div class="category-card">
+                    <img src="images/board-games.jpg" alt="Board Games">
+                    <h3>Board Games</h3>
+                    <p>Fun for the whole family with our exciting board games.</p>
+                    <a href="https://planetx.pk/categories/board-games" class="category-link">Shop Now</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Backlink to PlanetX -->
+        <div class="backlink">
+            <p>Visit us at <a href="https://planetx.pk/" target="_blank">PlanetX - Your Toy Store</a> for more!</p>
+        </div>
+    </section>
+
+</body>
+</html>
+https://planetx.pk/
